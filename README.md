@@ -28,11 +28,3 @@ If one is able to identify these risky loan applicants, then such loans can be r
  
 In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment. 
 
-To develop your understanding of the domain, you are advised to independently research a little about risk analytics (understanding the types of variables and their significance should be enough).
- 
-# Results Expected
-1.	Write all your code in one well-commented R file; briefly mention the insights and observations from the analysis 
-2.	Present the overall approach of the analysis in a presentation 
-o	Mention the problem statement and the analysis approach briefly 
-o	Explain the results of univariate, bivariate analysis etc. in business terms
-o	Include visualisations and summarise the most important results in the presentation
